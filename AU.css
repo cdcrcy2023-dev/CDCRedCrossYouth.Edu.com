@@ -25,6 +25,10 @@
       color: #fff;
     }
 	
+	.logos {
+		margin-bottom:35px;
+	}
+	
 	.logo {
 		position: absolute;
 		top: 10px;
